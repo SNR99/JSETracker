@@ -15,4 +15,4 @@ https://snr99.medium.com/jse-tracker-4dbab8d35d7f
 ## License
 MIT
 **Free Software, Hell Yeah!**
-### developed by [Ntwanano Rikhotso](http://ntwanano.me)(c) 2021
+### developed by [Ntwanano Rikhotso](http://ntwanano.me) (c) 2021
