@@ -32,4 +32,4 @@ class Stocks:
         :param: takes a list of stocks as a parameter
         :return: all stocks from the give in the list in json format
         """
-        return requests.get("{}/{}".format(url, stock)).json()
+        return requests.get(f"{url}/{stock}").json()
