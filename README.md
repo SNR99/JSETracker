@@ -1,7 +1,6 @@
 # JSE Tracker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 [![Downloads](https://pepy.tech/badge/jsetracker)](https://pepy.tech/project/jsetracker)
 
 
