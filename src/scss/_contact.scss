@@ -1,0 +1,38 @@
+.contact {
+  margin-bottom: 15rem;
+  .contact-header {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: clamp(3rem, 15vw, 25rem);
+    font-weight: 700;
+    color: rgb(206, 206, 206);
+  }
+  .contact-details {
+    .header {
+      font-size: clamp(3rem, 5vw, 6rem);
+      margin: 5rem 0;
+      span {
+        color: rgb(128, 128, 128);
+      }
+    }
+    .content {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+      h1 {
+        font-size: clamp(1rem, 3vw, 3rem);
+        font-weight: 500;
+      }
+      .box {
+        p {
+          line-height: 1.5;
+          font-weight: 300;
+          width: 80%;
+          margin: 3rem 0;
+          font-size: clamp(1.5rem, 2vw, 2rem);
+        }
+      }
+    }
+  }
+}

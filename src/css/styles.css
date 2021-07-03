@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+:root {
+  --clr-1: #353535;
+  --clr-2: #1f1f1f;
+}
+
+.wrapper {
+  max-width: 1700px;
+  padding: 0 30px;
+  margin: auto;
+}
+
+.wrapper-2 {
+  max-width: 1460px;
+  padding: 0 30px;
+  margin: auto;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Montserrat", sans-serif;
+}
+
+.navbar {
+  height: 10vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: fixed;
+  width: 100%;
+}
+
+.navbar .wrapper {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.navbar .wrapper .nav-logo {
+  font-size: clamp(1rem, 4vw, 3rem);
+  font-weight: 700;
+  color: var(--clr-1);
+}
+
+.navbar .wrapper #nav-icon {
+  font-size: clamp(1rem, 5vw, 3rem);
+}
+
+.showcase {
+  height: 100vh;
+}
+
+.showcase .showcase-content {
+  color: var(--clr-1);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: left;
+      -ms-flex-pack: left;
+          justify-content: left;
+}
+
+.showcase .showcase-content .content-1 h1 {
+  font-weight: 700;
+  font-size: clamp(3rem, 10vw, 12rem);
+}
+
+.showcase .showcase-content .content-1 p {
+  font-size: clamp(1.5rem, 4vw, 4rem);
+  font-weight: 600;
+}
+
+.showcase .showcase-content .content-2 {
+  margin-top: 20px;
+  line-height: 1.5;
+  color: #525252;
+}
+
+.showcase .showcase-content .content-2 p {
+  font-size: clamp(0.5rem, 2.5vw, 2rem);
+  font-weight: 500;
+}
+
+.contact {
+  margin-bottom: 15rem;
+}
+
+.contact .contact-header {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: clamp(3rem, 15vw, 25rem);
+  font-weight: 700;
+  color: #cecece;
+}
+
+.contact .contact-details .header {
+  font-size: clamp(3rem, 5vw, 6rem);
+  margin: 5rem 0;
+}
+
+.contact .contact-details .header span {
+  color: gray;
+}
+
+.contact .contact-details .content {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(360px, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+}
+
+.contact .contact-details .content h1 {
+  font-size: clamp(1rem, 3vw, 3rem);
+  font-weight: 500;
+}
+
+.contact .contact-details .content .box p {
+  line-height: 1.5;
+  font-weight: 300;
+  width: 80%;
+  margin: 3rem 0;
+  font-size: clamp(1.5rem, 2vw, 2rem);
+}
+
+.footer {
+  background-color: red;
+}
+/*# sourceMappingURL=styles.css.map */

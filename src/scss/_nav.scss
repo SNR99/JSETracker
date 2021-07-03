@@ -1,0 +1,22 @@
+.navbar {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+
+  .wrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .nav-logo {
+      font-size: clamp(1rem, 4vw, 3rem);
+      font-weight: 700;
+      color: var(--clr-1);
+    }
+    #nav-icon {
+      font-size: clamp(1rem, 5vw, 3rem);
+    }
+  }
+}
