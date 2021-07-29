@@ -1,5 +1,28 @@
 # JSE Tracker
 
+# Please note that the api has been taken down ( " Legal stuff ") 
+# I have linked the server that I was using, you can simply build and run the server local on your own.
+<a href='https://github.com/SNR99/jsetracker-server/blob/master/core/settings.py'> JSE Server </a>
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
