@@ -9,7 +9,7 @@
 
 <br/>
 
-# Help us keep improving and maintaining the API
+## Help us keep maintaining and improving   the API
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/snr99)
 
 
@@ -33,6 +33,7 @@ s.get("JSE CODE HERE") # returns the specified the Stock data
 ```
 
 see the article for more information and for other useful tools
+
 
 https://snr99.medium.com/jse-tracker-4dbab8d35d7f
 
