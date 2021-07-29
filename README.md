@@ -1,20 +1,21 @@
 # JSE Tracker
 
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Downloads](https://pepy.tech/badge/jsetracker)](https://pepy.tech/project/jsetracker)
+[![Requirements Status](https://requires.io/github/SNR99/JSETracker/requirements.svg?branch=main)](https://requires.io/github/SNR99/JSETracker/requirements/?branch=main)
+
+
 <br/>
 
-# Help me keep the API running and improving it
+# Help us keep improving and maintaining the API
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/snr99)
 
 
 
 <br/>
 
-
-
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Downloads](https://pepy.tech/badge/jsetracker)](https://pepy.tech/project/jsetracker)
-[![Requirements Status](https://requires.io/github/SNR99/JSETracker/requirements.svg?branch=main)](https://requires.io/github/SNR99/JSETracker/requirements/?branch=main)
 
 
 ##### get JSE stock data
