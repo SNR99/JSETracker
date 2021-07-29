@@ -1,7 +1,7 @@
 # JSE Tracker
 
 # Please note that the api has been taken down ( " Legal stuff ") 
-# I have linked the server that I was using, you can simply build and run the server local on your own.
+# I have linked the server that I was using, you can simply build and run the server locally on your own.
 <a href='https://github.com/SNR99/jsetracker-server/blob/master/core/settings.py'> JSE Server </a>
 
 
